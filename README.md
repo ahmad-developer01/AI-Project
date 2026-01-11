@@ -1,5 +1,5 @@
 
-# insurance-charges-analysis
+# Insurance charges analysis
 
 A small analysis pipeline to predict and evaluate insurance `charges` using regression and classification models.
 
